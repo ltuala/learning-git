@@ -1,3 +1,4 @@
 Chapter 1 
 New line
 another line
+another line to test git core.editor
